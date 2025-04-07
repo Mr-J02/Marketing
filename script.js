@@ -1,3 +1,7 @@
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8215485543887410"
+     crossorigin="anonymous"></script>
+
 /* Toggle between showing and hiding the navigation menu links when the user clicks on the hamburger menu / bar icon */
 function myFunction() {
     var x = document.getElementById("myNavbar");
